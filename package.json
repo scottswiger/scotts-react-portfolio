@@ -1,0 +1,25 @@
+{
+  "name": "scotts-react-portfolio",
+  "version": "1.0.0",
+  "description": "React Portfolio created for UNCCH bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottswiger/scotts-react-portfolio.git"
+  },
+  "author": "Scott Swiger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottswiger/scotts-react-portfolio/issues"
+  },
+  "homepage": "https://github.com/scottswiger/scotts-react-portfolio#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-scripts": "^5.0.1"
+  }
+}
